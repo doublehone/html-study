@@ -8,6 +8,6 @@ My cat is very grumpy
 
 만약 다음의 문장을 그냥 그 자체로 표시하고 싶다면, 태그 중 <p>로 감싸 엘리먼트를 문단으로 명시할 수 있습니다.
 
-```
+```html
 <p>My cat is very grumpy</p>
 ```
